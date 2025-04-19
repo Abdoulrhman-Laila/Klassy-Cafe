@@ -1,6 +1,6 @@
 // pages/_document.js
 import Document, { Html, Head, Main, NextScript } from 'next/document';
-import Head from 'next/head';
+
 import "./globals.css"
 
 class MyDocument extends Document {
