@@ -1,7 +1,7 @@
-import { Roboto } from "next/font/google"
+
 import Nav from "../Components/Nav/Nav"
 import Footer from "../Components/Footer/Footer"
-import "../pages/globals.css"
+import "./globals.css"
 
 
 
