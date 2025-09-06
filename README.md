@@ -45,3 +45,16 @@
     انتقل إلى [http://localhost:3000](http://localhost:3000) لرؤية الموقع.
 
 ## 🏗️ بنية المشروع
+
+Klassy-Cafe/
+├── app/
+│ ├── globals.css
+│ ├── layout.tsx
+│ ├── page.tsx
+│ └── components/ # انقل المكونات إلى src/components/
+├── public/ # الصور والأصول الثابتة
+│ ├── images/
+│ └── favicon.ico
+├── next.config.js # إعدادات Next.js
+├── tailwind.config.js # إعدادات Tailwind CSS
+└── package.json
